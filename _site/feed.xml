@@ -5,25 +5,42 @@
     <description>George Dau</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jan 2023 13:54:02 -0600</pubDate>
-    <lastBuildDate>Wed, 25 Jan 2023 13:54:02 -0600</lastBuildDate>
+    <pubDate>Wed, 25 Jan 2023 18:42:33 -0600</pubDate>
+    <lastBuildDate>Wed, 25 Jan 2023 18:42:33 -0600</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Optimal Pricing Model</title>
+        <title>Truck Purchase Analysis</title>
         <description>
 </description>
-        <pubDate>Fri, 20 Jan 2023 15:15:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2023/01/20/optimal_pricing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2023/01/20/optimal_pricing.html</guid>
+        <pubDate>Wed, 25 Jan 2023 08:15:00 -0600</pubDate>
+        <link>http://localhost:4000/development/2023/01/25/Truck_Purchase_Analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2023/01/25/Truck_Purchase_Analysis.html</guid>
+        
+        <category>SQL</category>
+        
+        <category>Python</category>
+        
+        <category>Analysis</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Pricing Optimization</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Jul 2022 16:15:00 -0500</pubDate>
+        <link>http://localhost:4000/development/design/2022/07/01/Pricing_Optimizaiton.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2022/07/01/Pricing_Optimizaiton.html</guid>
         
         <category>Python</category>
         
         <category>SQL</category>
         
-        <category>Analytics</category>
-        
-        <category>Work</category>
+        <category>Modeling</category>
         
         
         <category>development</category>
@@ -33,12 +50,31 @@
       </item>
     
       <item>
-        <title>Rescue Themes</title>
+        <title>Optimal Email Frequency</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 09:56:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/rescue-themes.html</guid>
+        <pubDate>Sat, 15 Jan 2022 09:56:00 -0600</pubDate>
+        <link>http://localhost:4000/development/2022/01/15/Email_Frequency_Modeling.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2022/01/15/Email_Frequency_Modeling.html</guid>
+        
+        <category>SQL</category>
+        
+        <category>Python</category>
+        
+        <category>Modeling</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Airfoil Design</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Mar 2021 10:56:00 -0500</pubDate>
+        <link>http://localhost:4000/development/design/matlab/2021/03/19/Airfoil_Design.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/matlab/2021/03/19/Airfoil_Design.html</guid>
         
         <category>WordPress</category>
         
@@ -51,47 +87,7 @@
         
         <category>design</category>
         
-      </item>
-    
-      <item>
-        <title>Weathercast</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 09:56:00 -0600</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/weathercast.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>API</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloc Jams Angular</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 08:15:00 -0600</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
-        
-        
-        <category>development</category>
+        <category>Matlab</category>
         
       </item>
     

@@ -1,98 +1,60 @@
-## Phantom for Jekyll
+# Website Plan & Important Info
 
-A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
+## Startup
+*if nececcasry* 
 
-![preview](preview.jpg)
+<code>bundle install</code>
 
-[See it in action](http://jamigibbs.github.io/phantom/).
+<code>bundle exec jekyll serve</code>
+## Overall Steps
+1. **Create Basic Website w/Git functionality**
+2. **Add A Simple Sample Project**
+3. **Add Complexity**
+4. **Add in more projects**
 
-## Fancy using it for your own site?
+## Descriptions
+### 1) Basic Website
+- General Format
+- Brief writing, just the basics
+- no accesproes
+- Add git functionality to create changes that i want to use
 
-Here are some steps to get you started:
+### 2) First Project
+- Use a simple project, likely the pricing strategy
+- work out the bugs
+- Figure out which plotting works
 
-1. Clone this repo and cd into the directory:
+### 3) Enhance to v2
+- Clean up website
+- Write better descriptions
+- Add Favicon
+- Use other tools
 
-  ```bash
-  git clone https://github.com/jamigibbs/phantom.git your-dir-name && cd your-dir-name
-  ```
+### 4) Add in more projects
+- Email Strategy
+- Car tracking
+- Potentially an Aero project?
 
-2. Run:
 
-  ```bash
-  gem install bundler
-  bundle install
-  bundle exec jekyll serve
-  ```
+# Bug Fixes
+**Port in use**
 
-  You may need to append your commands with `sudo` if you're getting a permissions error.
+<code>bundle exec jekyll serve --port 4001</code>
 
-  _Don't have Jekyll yet? [Get `er installed then!](http://jekyllrb.com/docs/installation/)_
+or restart terminal
 
-3. Visit in your browser at:
+<code>pip install plotly pandas numpy</code>
 
-  `http://127.0.0.1:4000`
+<code> jupyter nbconvert my_notebook.ipynb --to markdown --output output.md </code> 
 
-## Launching with Github Pages :rocket:
+<code><iframe 
 
-Jekyll + Github pages is a marriage made in heaven. You can [use your own custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) or use the default Github url (ie. http://username.github.io/repository) and not bother messing around with DNS settings.
+src="/img/posts/first_plots/plotly_test.html" height = "400px" width = "100%"></iframe>
 
-## Theme Features
+</code> 
 
-### Navigation
+# Helpful Links
+[Phantom Jekyll Theme](https://github.com/jamigibbs/phantom)
 
-Navigation can be customized in `_config.yml` under the `nav_item` key. Default settings:
+[Icons](https://fontawesome.com/icons/)
 
-```yaml
-nav_item:
-    - { url: '/', text: 'Home' }
-    - { url: '/about', text: 'About' }
-```
-
-Set the `nav_enable` variable to false in `_config.yml` to disable navigation.
-
-### Contact Form
-
-You can display a contact form within the modal window template. This template is already setup to use the [Formspree](https://formspree.io) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
-
-Place the modal window template in any place you'd like the user to click for the contact form.
-The template will display a link to click for the contact form modal window:
-
-```liquid
-{% include contact.html %}
-{% include contact-modal.html %}
-```
-
-### Animation Effects
-
-Animations with CSS classes are baked into the theme. To animate a section or element, simply add the animation classes:
-
-```html
-<div id="about-me" class="wow fadeIn">
-  I'm the coolest!
-</div>
-```
-
-For a complete list of animations, see the [animation list](http://daneden.github.io/animate.css/).
-
-### Pagination
-
-By default, pagination on the home page will activate after 10 posts. You can change this within `_config.yml`. You can add the pagination to other layouts with:
-
-```liquid
-  {% for post in paginator.posts %}
-    {% include post-content.html %}
-  {% endfor %}
-
-  {% include pagination.html %}
-```
-
-Read more about the [pagination plugin](http://jekyllrb.com/docs/pagination/).
-
-## Credit
-
-* Bootstrap, http://getbootstrap.com/, (C) 2011 - 2016 Twitter, Inc., [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
-
-* Wow, https://github.com/matthieua/WOW, (C) 2014 - 2016 Matthieu Aussaguel
-, [GPL](https://github.com/matthieua/WOW#open-source-license)
-
-* Animate.css, https://github.com/daneden/animate.css, (C) 2016 Daniel Eden, [MIT](https://github.com/daneden/animate.css/blob/master/LICENSE)

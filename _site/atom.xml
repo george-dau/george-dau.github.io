@@ -4,7 +4,7 @@
  <title>Hello. I&apos;m George Dau.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-01-25T13:54:02-06:00</updated>
+ <updated>2023-01-25T18:42:33-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>George Dau</name>
@@ -13,37 +13,37 @@
 
  
  <entry>
-   <title>Optimal Pricing Model</title>
-   <link href="http://localhost:4000/development/design/2023/01/20/optimal_pricing.html"/>
-   <updated>2023-01-20T15:15:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2023/01/20/optimal_pricing</id>
+   <title>Truck Purchase Analysis</title>
+   <link href="http://localhost:4000/development/2023/01/25/Truck_Purchase_Analysis.html"/>
+   <updated>2023-01-25T08:15:00-06:00</updated>
+   <id>http://localhost:4000/development/2023/01/25/Truck_Purchase_Analysis</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Rescue Themes</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T09:56:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
+   <title>Pricing Optimization</title>
+   <link href="http://localhost:4000/development/design/2022/07/01/Pricing_Optimizaiton.html"/>
+   <updated>2022-07-01T16:15:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2022/07/01/Pricing_Optimizaiton</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Weathercast</title>
-   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T09:56:00-06:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
+   <title>Optimal Email Frequency</title>
+   <link href="http://localhost:4000/development/2022/01/15/Email_Frequency_Modeling.html"/>
+   <updated>2022-01-15T09:56:00-06:00</updated>
+   <id>http://localhost:4000/development/2022/01/15/Email_Frequency_Modeling</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Bloc Jams Angular</title>
-   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T08:15:00-06:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
+   <title>Airfoil Design</title>
+   <link href="http://localhost:4000/development/design/matlab/2021/03/19/Airfoil_Design.html"/>
+   <updated>2021-03-19T10:56:00-05:00</updated>
+   <id>http://localhost:4000/development/design/matlab/2021/03/19/Airfoil_Design</id>
    <content type="html">
 </content>
  </entry>
