@@ -16,7 +16,7 @@
 title: "Hello. I'm George Dau."
 email: 'george@txdau.com'
 description: "George Dau"
-self_description: "I am a highly motivated business analyst with 2 years of experience in data analysis and process improvement. I have a strong background in data science, utilizing skills such as statistical analysis and data visualization to drive business decisions and strategy. I well-versed in tools such as Excel, SQL, and Python. I excel in breaking down complex problems and identifying opportunities for improvement, and am able to effectively communicate and collaborate with both technical and non-technical stakeholders. I am constantly seeking to expand my skill set and stay up-to-date with the latest industry trends and technologies."
+self_description: "I am a highly motivated business analyst with 2 years of experience in data analysis and process improvement. I have a strong background in data science, utilizing skills such as statistical analysis and data visualization to drive business decisions and strategy. This website aims to expand my skill set and stay up-to-date with the latest industry trends and technologies."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://george-dau.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
