@@ -22,3 +22,5 @@ fig.show()
 <iframe src="/Project_Notebooks/plotly_1.html" height = "400px" width = "100%"></iframe>
 
 ### Referances
+
+<iframe src="/Resume.pdf" width="100%" height="500px"></iframe>
